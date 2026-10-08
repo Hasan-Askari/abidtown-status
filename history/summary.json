@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/abidtown.digitalwaffle.pk.ico",
     "slug": "abid-town",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.65%",
+    "uptimeDay": "20.32%",
+    "uptimeWeek": "88.62%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "98.65%",
     "time": 1659,
-    "timeDay": 1616,
-    "timeWeek": 1605,
-    "timeMonth": 1775,
+    "timeDay": 0,
+    "timeWeek": 1607,
+    "timeMonth": 1781,
     "timeYear": 1659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-08": 248,
+      "2026-10-07": 900
+    }
   }
 ]
